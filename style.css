@@ -1,0 +1,130 @@
+.number{
+    color:white;
+    font-size:3.5em;
+    position: absolute;
+    left:9.5em;
+    top:2em;
+}
+
+.tap-btn{
+    border:2px solid white;
+    color:black;
+    padding-left:10px;
+    border-radius: 15px;
+    height: 55px;
+    width:120px;
+    font-size:1.5em;
+    position: absolute;
+    text-decoration: none;
+    background-color: white;
+
+}
+
+.select{
+    color:white;
+    left:54em;
+    top:-0.5em;
+    position: absolute;
+    letter-spacing: 2px;
+}
+
+.box{
+   border:2px solid white;
+   height:83px;
+   width:85px;
+   background-color: white;
+   font-size: 3.5em;
+   font-weight: bold;
+   padding-left:55px;
+   padding-top: 20px;
+   position: absolute;
+   left:12.5em;
+   top:4.5em;
+   
+}
+
+.tag-line{
+    border:solid white;
+    color:white;
+    height:1px;
+    width:43em;
+    background-color: white;
+    position: absolute;
+    left:52.7em;
+    top:17.7em;
+}
+
+hr{
+    border:solid white;
+    color:white;
+    height:1px;
+    width:43.8em;
+    background-color: white;
+    position: absolute;
+    left:-5px;
+    top:17.7em;
+}
+
+main{
+    color:white;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    /* height:120vh; */
+}
+
+.type-input{
+    border:3px solid white;
+    position:absolute;
+    height:13vh;
+    width:3em;
+    background-color: #302f2c;
+    /* position: absolute; */
+    padding-left:100px;
+    top:8.5em;
+    left:4.3em;
+    font-size:52px;
+    color:white;
+    font-weight: bold;
+    
+}
+
+input{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.check-btn{
+    font-size: 20px;
+    font-weight: bold;
+    border:solid white;
+    border-radius: 5px;
+    position: absolute;
+    height:2.5em;
+    width:6.5em;
+    left:14.5em;
+    top:29em;
+}
+
+.input1{
+    font-size:30px;
+    position: absolute;
+    top:15em;
+    left:34em;
+    letter-spacing: 4px;
+}
+
+
+.number-twenty{
+    position: absolute;
+    left:6em;
+    top:2.55em;
+}
+
+.zero{
+    position: absolute;
+    left:9em;
+    top:4.88em;
+}
